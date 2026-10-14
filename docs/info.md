@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The project is a simple example project. We have 8 input pins and 8 output pins to be connected to a segment display. 
 
 ## How to test
 
-Explain how to use your project
+Simply switch the buttons on the board and see the output change on the segment display. 
 
 ## External hardware
 
